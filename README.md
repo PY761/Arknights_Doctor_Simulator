@@ -1,0 +1,2 @@
+# Arknights_Doctor_Simulator
+介是失智屑博模拟器的下载入口
